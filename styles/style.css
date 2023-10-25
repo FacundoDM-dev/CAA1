@@ -53,8 +53,8 @@ h3 {
 }
 
 hr {
-  border-color: #0160ce;
-  border-width: 0.5px;
+  height: 3px;
+  background-color: #0160ce;
 }
 
 .blue-text {
